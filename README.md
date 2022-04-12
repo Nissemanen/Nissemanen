@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Monk_Mod
+- 👋 Hi, I’m @Nissemanen/Monk_Mod
 - 👀 I’m interested in gorilla tag moding
 - 🌱 I’m currently learning how to make games and mods to gtag
 - 💞️ I’m looking to collaborate with somone ho can make mods in gtag
