@@ -1,9 +1,9 @@
 # About Me
 - 👋 Hi, I’m @Nissemanen
-- 👀 I’m curently interested in ev3 coding with ev3dev and python
-- 🌱 I’m currently learning how to make program in python for ev3dev
-- 📫 If you need to contact me do so on discord nissemanen#1234
+- 👀 I’m curently interested in godot game making
+- 🌱 I’m currently learning how to programm in godot using gdscript
+- 📫 If you need to contact me my discord is @nissemanen
 
 # My Current Projects
 (2024-10-8)
-
+schratch 3d engine
