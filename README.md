@@ -6,4 +6,4 @@
 
 # My Current Projects
 (2024-10-8)
-schratch 3d engine
+scratch 3d engine
