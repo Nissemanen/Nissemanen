@@ -1,5 +1,6 @@
-# About Me (2025-4-21)
-- 👋 Hi, I’m @Nissemanen
-- 👀 I’m curently interested in python programming and package making
-- 🌱 I’m currently learning how to make user friendly python packages
-- 📫 If you need to contact me my discord is [@nissemanen](https://discord.com/users/717353324369936415)
+# About Me
+- Hi, I’m @Nissemanen
+- Currently im working on my project [InputStream](https://github.com/Nissemanen/InputStream)
+- If you need to contact me my discord is [@nissemanen](https://discord.com/users/717353324369936415)
+
+<small>Updated 2026-01-01</small>
